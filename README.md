@@ -1,3 +1,3 @@
 # example-repo
 
-Owner: Simon Clarke
+* Owner: Simon Clarke
